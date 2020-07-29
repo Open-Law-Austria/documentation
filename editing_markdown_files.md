@@ -1,5 +1,18 @@
 # Bearbeiten von ".md" Dateien
 
+## Inhalt
+
+*   [Über Markdown](#%C3%BCber-markdown)
+    *   [Markdown Syntax lernen](#markdown-syntax-lernen)
+    *   [Markdown Visual Editor](#markdown-visual-editor)
+*   [Dateien bearbeiten](#dateien-bearbeiten)
+    *   [Berechtigung freischalten](#berechtigung-freischalten)
+    *   [Speichern](#speichern)
+    *   [Datei anlegen oder hochladen](#datei-anlegen-oder-hochladen)
+    *   [Bestehende Datei bearbeiten](#bestehende-datei-bearbeiten)
+    *   [Datei herunterladen](#datei-herunterladen)
+*   [Markdown konvertieren](#markdown-konvertieren)
+
 ## Über Markdown
 
 [Markdown](https://de.wikipedia.org/wiki/Markdown) ist ein Dateiformat, welches vielseitige Textformatierungen mit einer einfachen Syntax ermöglicht, ähnlich den Formatierungsoptionen die in Online-Foren häufig Verwendung finden.
@@ -24,7 +37,7 @@ Um Dateien zu bearbeiten (oder neue anzulegen) muss zuerst die korrekte Berechti
 
 ![](https://user-images.githubusercontent.com/1525711/88807920-8856df80-d1b2-11ea-9728-93ac8c5f698e.png)
 
-### Speichern - "Commit"
+### Speichern
 
 Ohne zu weit ins Detail zu gehen, GitHub verwendet, wie der Name erahnen lässt, "Git", eine Software zur Versionierung von Dateien. Damit wird jede gespeicherte Änderung als einzelner Schritt aufgezeichnet und alle Änderungen sind jederzeit nachvollziehbar. "Speichern" heißt hier also "to commit", und jeder solche "Commit" sollte mit einer kurzen Nachricht versehen sein, was eigentlich geändert wird.
 
